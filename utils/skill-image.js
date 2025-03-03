@@ -35,6 +35,7 @@ import java from '../app/assets/svg/skills/java.svg';
 import javascript from '../app/assets/svg/skills/javascript.svg';
 import julia from '../app/assets/svg/skills/julia.svg';
 import kotlin from '../app/assets/svg/skills/kotlin.svg';
+import laravel from '../app/assets/svg/skills/laravel.svg';
 import lightroom from '../app/assets/svg/skills/lightroom.svg';
 import markdown from '../app/assets/svg/skills/markdown.svg';
 import materialui from '../app/assets/svg/skills/materialui.svg';
@@ -185,6 +186,8 @@ export const skillsImage = (skill) => {
       return graphql;
     case 'lightroom':
       return lightroom;
+    case 'laravel':
+      return laravel;
     case 'materialui':
       return materialui;
     case 'nginx':
