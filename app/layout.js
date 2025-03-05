@@ -10,9 +10,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Chandra Prayogo - Software Engineer",
+  title: "Portfolio of Chandra Prayogo - Backend Engineer",
   description:
-    "This is the portfolio of Chandra Prayogo. I am a backend engineer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This is the portfolio of Chandra Prayogo. I am a backend engineer and a self taught developer. I love to learn new things about programming, quick learner and always looking for new challenges.",
 };
 
 export default function RootLayout({ children }) {
