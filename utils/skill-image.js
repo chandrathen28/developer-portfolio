@@ -36,6 +36,7 @@ import javascript from '../app/assets/svg/skills/javascript.svg';
 import julia from '../app/assets/svg/skills/julia.svg';
 import kotlin from '../app/assets/svg/skills/kotlin.svg';
 import laravel from '../app/assets/svg/skills/laravel.svg';
+import livewire from '../app/assets/svg/skills/livewire.svg';
 import lightroom from '../app/assets/svg/skills/lightroom.svg';
 import markdown from '../app/assets/svg/skills/markdown.svg';
 import materialui from '../app/assets/svg/skills/materialui.svg';
@@ -82,8 +83,6 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
-
-
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -188,6 +187,8 @@ export const skillsImage = (skill) => {
       return lightroom;
     case 'laravel':
       return laravel;
+    case 'livewire':
+      return livewire;
     case 'materialui':
       return materialui;
     case 'nginx':
