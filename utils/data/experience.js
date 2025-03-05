@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Backend Developer',
+    title: 'Backend Engineer',
     company: "PT. Asuransi Jiwa Generali Indonesia",
     duration: "(Nov 2023 - Present)"
   },

@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Chandra Prayogo - Backend Engineer",
   description:
-    "This is the portfolio of Chandra Prayogo. I am a backend engineer and a self taught developer. I love to learn new things about programming, quick learner and always looking for new challenges.",
+    "a Senior Backend Engineer who expertise in Laravel, MySQL, PostgreSQL, MongoDB, TypeScript, JavaScript, Node.js, Java, ReactJS, Next.js, Shell Scripting, Linux Systems Administration. Proficient in Docker for containerization and Git for version control. Seeking challenging roles to leverage diverse skills in backend development and infrastructure management.",
 };
 
 export default function RootLayout({ children }) {

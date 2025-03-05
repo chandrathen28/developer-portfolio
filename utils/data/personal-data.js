@@ -2,7 +2,7 @@ export const personalData = {
   name: "Chandra Prayogo",
   profile: '/profile.jpeg',
   designation: "Software Developer",
-  description: "My name is Chandra Prayogo. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "a Senior Backend Engineer who expertise in Laravel, MySQL, PostgreSQL, MongoDB, TypeScript, JavaScript, Node.js, Java, ReactJS, Next.js, Shell Scripting, Linux Systems Administration. Proficient in Docker for containerization and Git for version control. Seeking challenging roles to leverage diverse skills in backend development and infrastructure management.",
   email: 'chandrathen28@gmail.com',
   phone: '+6281284376223',
   address: 'Jakarta Barat, DKI Jakarta',
