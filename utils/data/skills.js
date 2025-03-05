@@ -12,7 +12,8 @@ export const skillsData = [
   'Nginx',
   'PHP',
   'Java',
-  'Laravel'
+  'Laravel',
+  'Livewire'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
