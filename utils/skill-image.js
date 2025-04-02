@@ -83,6 +83,7 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import ubuntu from '../app/assets/svg/skills/ubuntu.svg'
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -255,6 +256,8 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'ubuntu':
+      return ubuntu;
     default:
       break;
   }
