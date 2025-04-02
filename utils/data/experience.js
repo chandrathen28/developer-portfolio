@@ -9,7 +9,7 @@ export const experiences = [
     id: 2,
     title: "Senior Backend Engineer",
     company: "PT. Cranium Royal Aditama",
-    duration: "(Jun 2018 - Dec 2024)"
+    duration: "(Jun 2018 - Nov 2023)"
   },
   {
     id: 3,
